@@ -431,9 +431,6 @@ Create a DELETE requests to the API
 
 ![Screenshot](images/delete-request.png)
 
-Check Database Collections
-
-![Screenshot](images/database-collection-new.png)
 
 
 ## Step 2 - Frontend Creation
